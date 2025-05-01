@@ -8,6 +8,7 @@ Program capabilities:
 - integrated low-pass filters;
 3D surface modeling is a tool in materials science that allows researchers to analyze surface changes after external influences based on visualization of the results.
 
+# Micro-S-3DMaker (русский)
 Программа предназначена для создания 3D поверхности материалов виде аксонометрических изображений.
 Возможности программы:
 - создание пяти видов аксонометрий в соответствии с ГОСТ 2.317-11;
