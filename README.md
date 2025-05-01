@@ -9,6 +9,7 @@ Program capabilities:
 3D surface modeling is a tool in materials science that allows researchers to analyze surface changes after external influences based on visualization of the results.
 ---
 For easy use download Micro-S 3DM.zip
+
 To view and get the program source code, download Micro-S 3DM - Source.zip
 
 
@@ -23,4 +24,5 @@ To view and get the program source code, download Micro-S 3DM - Source.zip
 Трехмерное моделирование поверхностей - инструмент в материаловедении, позволяющий исследователям анализировать изменения поверхности после внешних воздействий на основе визуализации результатов.
 ---
 Для простого использования скачивайте Micro-S 3DM.zip
+
 Для просмотра исходных текстов программы скачивайте Micro-S 3DM - Source.zip
