@@ -7,6 +7,10 @@ Program capabilities:
 - automatic image monochromeization in accordance with ITU-R BT.601-7;
 - integrated low-pass filters;
 3D surface modeling is a tool in materials science that allows researchers to analyze surface changes after external influences based on visualization of the results.
+---
+For easy use download Micro-S 3DM.zip
+To view and get the program source code, download Micro-S 3DM - Source.zip
+
 
 # Micro-S-3DMaker (русский)
 Программа предназначена для создания 3D поверхности материалов виде аксонометрических изображений.
@@ -17,3 +21,6 @@ Program capabilities:
 - автоматическая монохромизация изображения в соответствии с ITU-R BT.601-7;
 - интегрированные низкочастотные фильтры;
 Трехмерное моделирование поверхностей - инструмент в материаловедении, позволяющий исследователям анализировать изменения поверхности после внешних воздействий на основе визуализации результатов.
+---
+Для простого использования скачивайте Micro-S 3DM.zip
+Для просмотра исходных текстов программы скачивайте Micro-S 3DM - Source.zip
